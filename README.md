@@ -17,7 +17,7 @@ Through careful **data cleaning**, **data enrichment**, **visual storytelling**,
 
 ---
 
-####  Business Questions Answered
+###  Business Questions Answered
 
 The following key questions were explored and answered:
 
@@ -54,8 +54,9 @@ The following key questions were explored and answered:
 11. **Top Revenue Drivers via Correlation Analysis**  
     - What are the top contributing factors to revenue?
 
+---
 
-#### 🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used
 
 | Tool                 | Purpose                                     |
 |----------------------|---------------------------------------------|
@@ -67,7 +68,9 @@ The following key questions were explored and answered:
 | **Scikit-learn**     | Correlation analysis                        |
 | **Jupyter Notebook** | Interactive development & presentation      |
 
-#### Data Cleaning & Enrichment
+-----
+
+### Data Cleaning & Enrichment
 
 ✅ Checked and handled missing values  
 ✅ Corrected misspelled values for data consistency  
@@ -141,7 +144,7 @@ From the comprehensive analysis of the online sales transaction dataset, the fol
 
 ---
 
-#### Business Recommendations
+### Business Recommendations
 
 Based on the insights derived, the following recommendations are proposed for improved decision-making and sales optimization:
 
@@ -159,7 +162,7 @@ Based on the insights derived, the following recommendations are proposed for im
 
 ---
 
-#### Acknowledgments
+### Acknowledgments
 Special thanks to Jude Raji for providing the dataset and the open-source community and Python ecosystem for making robust tools for data analysis accessible and efficient.
 
 📫 Contact
