@@ -77,20 +77,79 @@ The following key questions were explored and answered:
 - `Year`, `Month`, `Month Number`, `Quarter` (for trend analysis)
 
 ---
+### Key Insights & Recommendations
 
-#### Key Insights
+#### 🔍 Summary of Key Insights
 
-🔹 Discounted products **positively correlated** with revenue  
-🔹 Top 5 features contributing to revenue (Correlation Coefficients: 0.9926 to 0.289):
-- **Discount Sales**
-- **Unit Price**
-- **Discount Amount**
-- **Quantity Sold**
-- **Product**
+From the comprehensive analysis of the online sales transaction dataset, the following actionable insights were uncovered:
 
-🔹 Revenue concentration was highest across **specific sales channels and regions**  
-🔹 Not all high-quantity products contributed equally to revenue  
-🔹 Product return rates varied significantly by product category
+1. **Retail Sales Channel Dominates Revenue**
+
+   * The majority of revenue was generated through retail channels, indicating that customers often purchase in bulk through this channel.
+
+2. **Quarterly and Monthly Revenue Trends**
+
+   * Peak revenue was recorded in **Q1**, particularly in **January and November 2023**, suggesting seasonal demand patterns or promotional events.
+
+3. **Top Performing Region**
+
+   * The **Northern region** led in revenue performance, contributing a total of **₦243,329**, making it the most lucrative market.
+
+4. **Impact of Discounts on Revenue**
+
+   * Discounted sales had a significant positive influence on revenue, highlighting the effectiveness of discount strategies in driving volume.
+
+5. **Leading Product Category**
+
+   * The **Laptop** category outperformed all others, generating a total of **₦260,648**, establishing it as the most profitable product category.
+
+6. **Top 5 Revenue-Generating Products**
+
+   * All top 5 products by revenue were laptops:
+
+     * **Lenovo ThinkPad**
+     * **HP Spectre**
+     * **Dell XPS13**
+     * **MacBook Air**
+     * **Pixel 7**
+
+7. **Top Revenue Drivers Identified via Correlation Analysis**
+
+   * Five primary factors contributing to revenue were identified with high correlation scores:
+
+     * **Discount Sales**
+     * **Unit Price**
+     * **Discount Amount**
+     * **Quantity Sold**
+     * **Product**
+
+---
+
+#### Business Recommendations
+
+Based on the insights derived, the following recommendations are proposed for improved decision-making and sales optimization:
+
+1. **Double Down on High-Performing Channels and Regions**
+
+   * Focus marketing and logistics efforts on **retail sales channels** and the **Northern region**, which show strong customer demand and revenue contribution. Consider creating exclusive deals or incentives in these areas to maintain momentum.
+
+2. **Promote Laptops and Plan Seasonal Campaigns**
+
+   * Given the dominance of laptops in the top-performing products and categories, **increase inventory, marketing, and promotional campaigns** for laptop products—especially leading up to **Q1 and months like January and November** to maximize peak-season sales.
+
+3. **Leverage Discount Strategies Strategically**
+
+   * Since discounted sales significantly boost revenue, implement **targeted discount campaigns**—especially on high-margin products—to encourage higher volumes while maintaining profitability. Dynamic pricing models can be introduced to optimize discount effectiveness.
+
+---
+
+#### Acknowledgments
+Special thanks to Jude Raji for providing the dataset and the open-source community and Python ecosystem for making robust tools for data analysis accessible and efficient.
+
+📫 Contact
+Project by: Jones Osele
+Role: Data Analyst | ML
+📧 Reach me on LinkedIn : https://www.linkedin.com/in/osele-jones/
 
 
 
