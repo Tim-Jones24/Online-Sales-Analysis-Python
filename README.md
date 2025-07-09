@@ -1,6 +1,7 @@
 # Online Sales Analysis-Python
 This repository contains an end-to-end data analysis project on online sales transactions using Python. It includes data preprocessing, enrichment, business insights, visualizations, and correlation analysis.
 
+-------
 
 ### 🛒 End-to-End Online Sales Transactions Analysis Using Python
 
@@ -85,25 +86,38 @@ From the comprehensive analysis of the online sales transaction dataset, the fol
 
 1. **Retail Sales Channel Dominates Revenue**
 
+   ![Sales Channel Insight](https://github.com/user-attachments/assets/67bfc1e8-8137-41d5-947d-425c4c9e8931)
    * The majority of revenue was generated through retail channels, indicating that customers often purchase in bulk through this channel.
 
-2. **Quarterly and Monthly Revenue Trends**
 
+3. **Quarterly and Monthly Revenue Trends**
+
+    ![Quarter Insight](https://github.com/user-attachments/assets/ef403a09-3f55-4ba1-a9e7-1a105c22b5a1)
+    ![Monthly Sales Trend](https://github.com/user-attachments/assets/bbddfe06-5177-4c23-9197-706fc0e51c0f)
    * Peak revenue was recorded in **Q1**, particularly in **January and November 2023**, suggesting seasonal demand patterns or promotional events.
 
-3. **Top Performing Region**
 
+4. **Top Performing Region**
+
+    ![Regional Insight](https://github.com/user-attachments/assets/e187b4b7-5856-447d-99d8-fc1fd7676214)
    * The **Northern region** led in revenue performance, contributing a total of **₦243,329**, making it the most lucrative market.
 
-4. **Impact of Discounts on Revenue**
 
+5. **Impact of Discounts on Revenue**
+
+    ![Discount vs Non-Discount](https://github.com/user-attachments/assets/d9d33d95-33a4-4219-8f24-2a1ce6afa1e9)
    * Discounted sales had a significant positive influence on revenue, highlighting the effectiveness of discount strategies in driving volume.
 
-5. **Leading Product Category**
 
+6. **Leading Product Category**
+
+   ![Product Category Insight](https://github.com/user-attachments/assets/a24f0f5a-146b-4ef6-9d01-c9c1806d93e1)
    * The **Laptop** category outperformed all others, generating a total of **₦260,648**, establishing it as the most profitable product category.
 
-6. **Top 5 Revenue-Generating Products**
+
+7. **Top 5 Revenue-Generating Products**
+
+   ![Top 5 Product Insight](https://github.com/user-attachments/assets/7a751f93-8d8f-43e8-bf43-bbbf14507d96)
 
    * All top 5 products by revenue were laptops:
 
@@ -113,7 +127,9 @@ From the comprehensive analysis of the online sales transaction dataset, the fol
      * **MacBook Air**
      * **Pixel 7**
 
-7. **Top Revenue Drivers Identified via Correlation Analysis**
+8. **Top Revenue Drivers Identified via Correlation Analysis**
+
+   ![Correlation Matrix](https://github.com/user-attachments/assets/9b4d4ac4-a62f-40f6-b6af-f8a0c78d4ac4)
 
    * Five primary factors contributing to revenue were identified with high correlation scores:
 
